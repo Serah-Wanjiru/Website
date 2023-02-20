@@ -1,0 +1,10 @@
+.content{
+    border-style: dotted;
+    background-color: red;
+}
+.red{
+    border: 1px solid;
+    background-color: chartreuse;
+    padding: 20px;
+    margin: 5%;
+}
